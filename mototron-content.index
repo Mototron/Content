@@ -5,11 +5,11 @@
 		<description>Contenido adicional creado para las campañas de DnD, tanto de DM como Jugador.</description>
 		<author url="https://Mototron.es">Mototron</author>
 		<update version="0.2">
-			<file name="mototon-content.index" url="https://mototron.es/dnd/mototron-content.index" />
+			<file name="mototon-content.index" url="https://raw.githubusercontent.com/Mototron/Content/main/mototron-content.index" />
 		</update>
 	</info>
 	<files>	
-		<file name="source.xml" url="https://mototron.es/dnd/mototron-content/source.xml" />
+		<file name="source.xml" url="https://raw.githubusercontent.com/Mototron/Content/main/mototron-content/source.xml" />
 		
 		<!-- races 
 		<file name="race-dragonborn.xml" url="https://raw.githubusercontent.com/aurorabuilder/elements/master/core/players-handbook/races/race-dragonborn.xml" />
@@ -67,6 +67,6 @@
 		<file name="deities.xml" url="https://raw.githubusercontent.com/aurorabuilder/elements/master/core/players-handbook/deities.xml" />
 		<file name="companions.xml" url="https://raw.githubusercontent.com/aurorabuilder/elements/master/core/players-handbook/companions.xml" />
 		-->
-		<file name="feats.xml" url="https://mototron.es/dnd/mototron-content/feats.xml" />
+		<file name="feats.xml" url="https://raw.githubusercontent.com/Mototron/Content/main/mototron-content/feats.xml" />
 	</files>
 </index>
