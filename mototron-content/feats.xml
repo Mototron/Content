@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <elements>
-	<element name="Voluntad del Caudillo" type="Feat" source="CustomFeats by Mototron" id="ID_CUSTOM_MOTO_VOLCAU">
+	<element name="Voluntad del Caudillo" type="Feat" source="CustomFeats by Mototron" id="ID_MOTOTRON_FEAT_VOLCAU">
 		<description>
 			<p>Tienes la voluntad de un lider, y puedes usarlo para dominar</p>
 			<ul>

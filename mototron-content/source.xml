@@ -2,10 +2,10 @@
 <elements>
 	<info>
 		<update version="0.0.2">
-			<file name="sources.xml" url="https://mototron.es/dnd/mototron-content/source.xml" />
+			<file name="sources.xml" url="https://raw.githubusercontent.com/Mototron/Content/main/mototron-content/source.xml" />
 		</update>
 	</info>
-	<element name="Mototron's custom content" type="Source" source="Core" id="ID_MOTOTORN_SOURCE_MOTOTRON-CUSTOM">
+	<element name="Mototron's custom content" type="Source" source="Core" id="ID_MOTOTRON_SOURCE_MOTOTRON-CUSTOM">
 		<description>
 			<![CDATA[<p><strong>Contenido adicional creado y usado en mis campañas</strong></p>]]>
 		</description>
