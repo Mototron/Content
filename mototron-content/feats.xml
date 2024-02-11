@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<elements>
+	<element name="Voluntad del Caudillo" type="Feat" source="CustomFeats by Mototron" id="ID_CUSTOM_MOTO_VOLCAU">
+		<description>
+			<p>Tienes la voluntad de un lider, y puedes usarlo para dominar</p>
+			<ul>
+				<li>Cuando uses un hechizo que haga pasar a una o varias crituras una TS de Sabiduria o inteligencia
+				puedes gastar puntos de hechiceria para añadir [Modificador de Carisma * Puntos de hechiceria] a la CD de la TS.</li>
+				<li>Se puede usar este rasgo [Sorcerer Level / 2] veces por descanso largo</li>
+			</ul>
+		</description>
+		<sheet>
+			<description>Cuando uses un hechizo que haga pasar a una o varias crituras una TS de Sabiduria o inteligencia
+				puedes gastar puntos de hechiceria para añadir [Modificador de Carisma * Puntos de hechiceria] a la CD de la TS.
+				Se puede usar este rasgo [Sorcerer Level / 2] veces por descanso largo</description>
+		</sheet>
+	</element>
+</elements>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<elements>
+	<info>
+		<update version="0.0.2">
+			<file name="sources.xml" url="https://mototron.es/dnd/mototron-content/source.xml" />
+		</update>
+	</info>
+	<element name="Mototron's custom content" type="Source" source="Core" id="ID_MOTOTORN_SOURCE_MOTOTRON-CUSTOM">
+		<description>
+			<![CDATA[<p><strong>Contenido adicional creado y usado en mis campañas</strong></p>]]>
+		</description>
+		<setters>
+			<set name="abbreviation">MCC</set>
+			<set name="url">https://mototron.es</set>
+			<set name="image">https://sea.mototron.es/media/custom/mylogo.png</set>
+			<set name="errata">https://mototron.es</set>
+			<set name="author" abbreviation="MOTO" url="https://mototron.es">Mototron</set>
+			<set name="official">false</set>
+			<set name="core">true</set>
+			<set name="release">20240211</set>
+		</setters>
+	</element>
+</elements>
