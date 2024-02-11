@@ -1,6 +1,14 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <elements>
-	<element name="Voluntad del Caudillo" type="Feat" source="CustomFeats by Mototron" id="ID_MOTOTRON_FEAT_VOLCAU">
+<info>
+		<name>Feats</name>
+		<description>Feats from Mototron's custom content.</description>
+		<author url="https://mototron.es">Mototron</author>
+		<update version="0.1.6">
+			<file name="feats.xml" url="https://raw.githubusercontent.com/Mototron/Content/main/mototron-content/feats.xml" />
+		</update>
+	</info>
+	<element name="Voluntad del Caudillo" type="Feat" source="Mototron's custom content" id="ID_MOTOTRON_FEAT_VOLCAU">
 		<description>
 			<p>Tienes la voluntad de un lider, y puedes usarlo para dominar</p>
 			<ul>
