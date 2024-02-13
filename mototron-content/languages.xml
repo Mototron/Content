@@ -2,7 +2,7 @@
 <elements>
 	<info>
 		<name>Languages</name>
-		<update version="0.0.1">
+		<update version="0.0.2">
 			<file name="languages.xml" url="https://raw.githubusercontent.com/Mototron/Content/main/mototron-content/languages.xml" />
 		</update>
 	</info>

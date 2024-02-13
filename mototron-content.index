@@ -4,7 +4,7 @@
 		<name>Mototron's Custom Content</name>
 		<description>Contenido adicional creado para las campañas de DnD, tanto de DM como Jugador.</description>
 		<author url="https://Mototron.es">Mototron</author>
-		<update version="0.2">
+		<update version="0.3">
 			<file name="mototon-content.index" url="https://raw.githubusercontent.com/Mototron/Content/main/mototron-content.index" />
 		</update>
 	</info>
