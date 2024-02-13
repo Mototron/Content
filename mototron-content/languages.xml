@@ -104,8 +104,9 @@
 			<p>Comunmente hablado por los Gürs.</p>
 		</description>
 		<setters>
-			<set name="exotic">true</set>
-			<set name="speakers">Gürs</set>
+			<set name="standard">true</set>
+			<set name="speakers">Humans</set>
+			<set name="script">Gitano</set>
 		</setters>
 	</element>
     <!--
