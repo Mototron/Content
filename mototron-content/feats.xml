@@ -24,15 +24,28 @@
 		</sheet>
 	</element>
 
-	<element name="Free Feat at level 1" type="Option" source="DM houserules" id="ID_HOUSERULES_FREE_FEAT">
+	<element name="Brazo de Akastar" type="Feat" source="Mototron's custom content" id="ID_MOTOTRON_FEAT_VOLCAU">
 		<description>
-			<p>Some DMs may grant a free feat for your characters at level 1. Check this if your DM does it.</p>
+			<p>Puedes invocar las fuerzas oscuras.</p>
+			<p>Puedes invocar fuerzas oscuras, atraves de una lengua antigua, para maldecir un objetivo y que este reciba un conjuro de nigromancia
+			al azar. El conjuro ignora las restricciones de alcance de este, pero al victima debe estar en un rango de 40 pies del lanzador, 
+			y utilizar como modificador magico tu carisma.
+			1 -   Circulo de la Muerte Lvl 10
+			2-5   Toque helado
+			6-9   Rayo debilitador
+			10-11 Inflingir heridas
+			12-13 Infligir heridas Lvl 2
+			14-15 Infilgir Heridaes lvl 3
+			16-17 Marchitar
+			18 Marchitar Lvl 5
+			19 Marchitar Lvl 6
+			20 Dedo de la muerte.
+			 </p>
 		</description>
-		<setters>
-			<set name="short">Free feat at level 1.</set>
-		</setters>
-		<rules>
-			<select type="Feat" name="Free Feat (Level 1)" />
-		</rules>
+		<sheet>
+			<description>Puedes invocar fuerzas oscuras, atraves de una lengua antigua, para maldecir un objetivo y que este reciba un conjuro de nigromancia
+			al azar. El conjuro ignora las restricciones de alcance de este, pero al victima debe estar en un rango de 40 pies del lanzador, 
+			y utilizar como modificador magico tu carisma.</description>
+		</sheet>
 	</element>
 </elements>
